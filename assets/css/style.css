@@ -69,7 +69,7 @@ section {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -134,7 +134,7 @@ section {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+main nav {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
