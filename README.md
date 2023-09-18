@@ -5,5 +5,5 @@ The challenge is to make changes to all div elements and div class inside index.
 URL: https://ayoleese.github.io/SemanticHTMLChallenge/
 
 
-[Screenshot of page](<../../Documents/Screenshot/Horiseon page screenshot.png>)
+[Screenshot of page](<Screenshot 2023-09-18 at 1.47.47 AM.png>)
 
